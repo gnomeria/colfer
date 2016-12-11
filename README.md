@@ -14,7 +14,6 @@ This is free and unencumbered software released into the
 [public domain](http://creativecommons.org/publicdomain/zero/1.0).
 The format is inspired by Proto**col** Buf**fer**.
 
-
 #### Features
 
 * Simple and straightforward in use
