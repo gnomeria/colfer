@@ -1,4 +1,4 @@
-# Colfer [![Build Status](https://travis-ci.org/pascaldekloe/colfer.svg?branch=master)](https://travis-ci.org/pascaldekloe/colfer)
+# Colfer [![Build Status](https://travis-ci.org/gnomeria/colfer.svg?branch=master)](https://travis-ci.org/gnomeria/colfer)
 
 Colfer is a schema-based binary serialization format optimized for speed and
 size.
